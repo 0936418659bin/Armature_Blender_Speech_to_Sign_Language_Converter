@@ -65,4 +65,4 @@ Project này giúp chuyển dữ liệu pose (body, hands, face) từ video sang
 
 ---
 
-**Lỗi hay thắc mắc gì liên hệ Minh Hiếu!**
+**Lỗi hay thắc mắc gì liên hệ Minh Hiếu: https://www.facebook.com/zminhhieu.1**
