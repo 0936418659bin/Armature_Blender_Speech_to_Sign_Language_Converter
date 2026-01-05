@@ -1,4 +1,4 @@
-# Hướng dẫn Pipeline Blender Pose Animation
+# Hướng dẫn sử sụng luồng Blender Pose Animation
 
 ## Tổng quan
 Project này giúp chuyển dữ liệu pose (body, hands, face) từ video sang Blender, tạo animation armature, thiết lập viewport, camera và xuất ra video. Dưới đây là thứ tự chạy các script và mô tả chi tiết chức năng từng file.
