@@ -5,7 +5,7 @@ Project này giúp chuyển dữ liệu pose (body, hands, face) từ video sang
 
 ---
 
-## Thứ tự chạy các script
+## Thứ tự chạy các script mô hình hóa animation
 
 1. **extract_pose_holistic_to_json.py**
 2. **import_pose_face_hands_upperbody.py**
