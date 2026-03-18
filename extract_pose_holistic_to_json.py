@@ -8,7 +8,7 @@ mp_pose = mp.solutions.pose
 mp_holistic = mp.solutions.holistic
 mp_drawing = mp.solutions.drawing_utils
 
-# Cấu hình đường dẫn
+# Cấu hình đường dẫn chi tiết
 video_path = r"C:\Users\minhh\Data\video\thongtin.mp4"  # Đường dẫn video đầu vào
 output_json =r"C:\Users\minhh\Data\thongtin.json"  # File JSON đầu ra
 
