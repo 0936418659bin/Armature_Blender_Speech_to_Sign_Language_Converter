@@ -5,7 +5,7 @@ Project này chuyển dữ liệu pose (body, hands, face) từ video sang Blend
 
 ---
 
-## Thứ tự chạy các script mô hình hóa animation
+## Thứ tự chạy các scripts mô hình hóa animations
 
 1. **extract_pose_holistic_to_json.py**
 2. **import_pose_face_hands_upperbody.py**
